@@ -1,11 +1,11 @@
 //alert("I am connected")
-var express = require('express')
+var express = require('express');
 // fs is a file system
-var fs = require('fs')
-var request = require('request')
+var fs = require('fs');
+var request = require('request');
 //cheerio is used for parsing html
-var cheerio = require('cheerio')
-var app = express()
+var cheerio = require('cheerio');
+var app = express();
 
 // $(document).ready(function(){ 
 jQuery(function () {
