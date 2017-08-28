@@ -1,6 +1,5 @@
-var $ = require('jquery')
-
-
+// x
+var $ = require('jquery');
 
 $(function() {
 	alert("Jquery Works!!");
